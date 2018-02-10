@@ -1,4 +1,4 @@
-# Mnist-Solver
+# Digit-Recognizer
 This is a neural network that recognizes handwritten digits from the MNIST dataset.
 It consists of 3 fully-connected layers and is trained using online gradient descent.
 
