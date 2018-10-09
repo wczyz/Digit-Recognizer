@@ -6,4 +6,4 @@ With 200 neurons in the hidden layer and 5 epochs it achieves about 96.5% accura
 
 For the gradient descent algorithm to execute in a reasonable time, this version has 30 neurons in the hidden layer and the iteration goes on only through 1 epoch.
 
-It has about 92% accuracy.
+It achieves about 92% accuracy.
